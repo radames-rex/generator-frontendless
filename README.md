@@ -11,7 +11,7 @@ Clone o projeto do gitlab para sua máquina utilizando no terminal o comando (re
 
 É utilizado a metodologia de desenvolvimento **```Git Branching Model```** e **```Continuous Integration```**
 
-## Features #
+## Funcionalidades #
 
 * Gera uma bandeja de indicadores com suas respectivas janelas e situações.
 * Permite filtrar, ordenar e agrupar indexáveis na bandeja.
@@ -21,7 +21,7 @@ Clone o projeto do gitlab para sua máquina utilizando no terminal o comando (re
 
 Para começar a desenvolver para o projeto siga os seguintes procedimentos:
 
-### Requirements
+### Requerimentos
 | Tecnologia | Versão | Utilidade |
 |------------|------------|------------|
 | [SenseWeb](www.com) | versão 3.0.0 | Controllers que farão a ligação com o banco de daos e o core |
@@ -32,7 +32,7 @@ Para começar a desenvolver para o projeto siga os seguintes procedimentos:
 | [Npm](www.com) | >= version 0.10.52 | Gerir dependencias gerais do projeto |
 | [Bower](www.com) | >= version 3.1.7 | Gerir bibliotecas front-end do projeto |
 
-### Dependencies
+### Dependências
 
 * AngularJS
  - Implementa o padrão MVC e SinglePage
@@ -50,8 +50,8 @@ Para começar a desenvolver para o projeto siga os seguintes procedimentos:
   - Implementa teste e specs unitárias
   - Versão 0.4.0 ou acima
 * Protractor  
-- Implementa teste e specs de interface (requer selenium webdriver)
-- Versão 0.4.0 ou acima
+  - Implementa teste e specs de interface (requer selenium webdriver)
+  - Versão 0.4.0 ou acima
 
 ### Configuração do Ambiente
 
